@@ -1,0 +1,5 @@
+Fruit : apple watermelon orange cherry strawberry grape mango pomegranate plum banana jackfruit papaya kiwi pineapple melon coconut
+Color : red yellow blue voilet green pink orange white black brown purple magenta
+Vehicles : truck lorry car bicycle van scooter motorcycle train aeroplane ship
+Groceries : rice wheat grains oats barley tomato onion carrot potato beans sugar
+AnimalsorBirds : lion tiger elephant rat owl swan chicken cock zebra giraffe camel monkey lizard dog snake kiwi eagle crow woodpecker parrot penguin hornbill crane sheep duck cuckoo panda fish
